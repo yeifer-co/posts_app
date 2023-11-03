@@ -5,19 +5,19 @@ This project is little clone of reddit post and comments functionality.
 
 Commit types
 
-📃: Documentation
-🐛: Bug fix
-🎨: Style
-🔁: Refactor
-🔧: Config
+- 📃: Documentation
+- 🐛: Bug fix
+- 🎨: Style
+- 🔁: Refactor
+- 🔧: Config
 
 Commit scopes
 
-🐋: Docker
-🔌: Backend
-🖥️: Frontend
-🗄️: Database
-🧰: Admin
+- 🐋: Docker
+- 🔌: Backend
+- 🖥️: Frontend
+- 🗄️: Database
+- 🧰: Admin
 
 Commit structure
 
